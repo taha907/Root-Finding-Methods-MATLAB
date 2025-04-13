@@ -78,8 +78,8 @@ Example Script: incremental_search_example.m
 
 Example Problem:
 Find a root of  starting from .
-```
 
+```matlab
 f = @(x) x.^3 + 4*x.^2 - 10;
 x = 1;
 h = 0.1;
@@ -115,8 +115,8 @@ Example Script: regula_falsi_example.m
 
 Example Problem:
 Find the root of  in the interval [1, 2] using Regula Falsi.
-```
 
+```matlab
 f = @(x) x.^3 + 4 * x.^2 -10;
 xa = 1;
 xu = 2;
