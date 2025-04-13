@@ -42,6 +42,8 @@ for i=1:10
 end
 ```
 
+
+
 2. Incremental Search Method (Step Reduction)
 
 Description:
@@ -71,6 +73,8 @@ for i = 1:10
     fprintf("Iteration %d: x = %.6f\n", i, x);
 end
 ```
+
+
 
 3. Regula Falsi (False Position Method)
 
